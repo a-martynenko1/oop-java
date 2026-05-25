@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Тесты для CsvExporter" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-03-01T09:57:55.402Z" hostname="DESKTOP-V0OQPAN" time="0.115">
+  <properties/>
+  <testcase name="Должен обработать одно слово" classname="org.example.CsvExporterTest" time="0.028"/>
+  <testcase name="Должен создать CSV файл с правильным заголовком" classname="org.example.CsvExporterTest" time="0.008"/>
+  <testcase name="Должен правильно отсортировать по убыванию частоты" classname="org.example.CsvExporterTest" time="0.013"/>
+  <testcase name="Должен обработать пустую карту" classname="org.example.CsvExporterTest" time="0.008"/>
+  <testcase name="Должен правильно считать проценты" classname="org.example.CsvExporterTest" time="0.009"/>
+  <testcase name="Должен выбросить IOException при ошибке записи" classname="org.example.CsvExporterTest" time="0.01"/>
+  <testcase name="Должен правильно форматировать числа с плавающей точкой" classname="org.example.CsvExporterTest" time="0.022"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
